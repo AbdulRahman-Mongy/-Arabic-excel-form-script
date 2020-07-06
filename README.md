@@ -8,3 +8,6 @@ This is a python script to handle excel sheets. It creats a new workbook formatt
 
 الوصف:-
 يقوم الاسكريبت بانشاء اكسيل فايل بفورمات مريحة وعملية ويقوم المستخدم بكتابة وتسجيل المبيعات في هذا اللفورم ويقسم المبيعات على عدد من الشيتس بينما يتم تجميعها تلقائيا في ملف "رصيد" المرفق مع الاسكريبت وعنند انتهاء الشيتس يقوم الاسكريبت بانشاء 10 شيتس اخرى تلقائيا 
+
+
+NOTE: all the files should be placed in the same directory .
